@@ -1,0 +1,1 @@
+- I know Command line on UNIX about as well as I know the GUI at this point, which is to say: not that well.
